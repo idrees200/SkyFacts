@@ -75,8 +75,31 @@ SkyFact is a comprehensive flight reservation and booking website that provides 
   - Account notifications
   - Promotional emails
 
+
 ### 2.12 Support/Help
 - **Description**: Customers can contact SkyFact for any assistance.
 - **Features**: 
   - Customer support via email, chat, and phone
   - Help center with FAQs and guides
+ 
+![UserSignup](https://github.com/idrees200/SkyFacts/assets/113856749/b92b82a5-0446-4a85-9551-bc0ebf2f3f67)
+![UserLogin](https://github.com/idrees200/SkyFacts/assets/113856749/5800077f-225d-4d85-b71e-ed688dfaa4f0)
+![User](https://github.com/idrees200/SkyFacts/assets/113856749/8e1abf38-b36c-4d35-99fd-bd7f374f5478)
+![User Details](https://github.com/idrees200/SkyFacts/assets/113856749/64c9b305-5314-43fc-a22c-8cc6bbe70bf8)
+![Tickets](https://github.com/idrees200/SkyFacts/assets/113856749/155aed22-84e4-4da6-9ba5-64402a2c5e1e)
+![Routes Management](https://github.com/idrees200/SkyFacts/assets/113856749/4bb66455-978f-4ced-b87d-bf61984c10c7)
+![Ratings](https://github.com/idrees200/SkyFacts/assets/113856749/231a3de5-b44e-4d7d-bb44-64823cebc735)
+![Member Management](https://github.com/idrees200/SkyFacts/assets/113856749/49b475b0-4dfb-4def-a8ef-b430f4cc1044)
+![Homepage-3](https://github.com/idrees200/SkyFacts/assets/113856749/2ab0c831-9907-4be9-9eef-33d50706f69f)
+![Homepage-2](https://github.com/idrees200/SkyFacts/assets/113856749/d7ba01e1-6cfe-47fe-ae45-f2da9a6dccb7)
+![Homepage](https://github.com/idrees200/SkyFacts/assets/113856749/58d3d157-e2fb-4f80-89d7-449b1948e19a)
+![Flights Management](https://github.com/idrees200/SkyFacts/assets/113856749/4d314f8a-f3f4-4250-8af6-febf57a78e6d)
+![Flights and Bookings Management](https://github.com/idrees200/SkyFacts/assets/113856749/49ba8998-ee4d-4fdc-97aa-85eeb627a28f)
+![CountriesManagement](https://github.com/idrees200/SkyFacts/assets/113856749/fbb8d242-a4b8-4d15-903b-db78e8909750)
+![Bookings Management](https://github.com/idrees200/SkyFacts/assets/113856749/3f2a2efb-5a34-4a21-bc4c-fb30744a0a1b)
+![Airport Details](https://github.com/idrees200/SkyFacts/assets/113856749/b052d873-8bae-4189-a420-59e50f431cac)
+![Airlines Offices](https://github.com/idrees200/SkyFacts/assets/113856749/6cbd1ad2-6f3d-4c83-a694-98c57cc82d71)
+![Airlines Details](https://github.com/idrees200/SkyFacts/assets/113856749/ff8239ff-5987-4b0e-8970-aa27de5f51e4)
+![AirCraft Details](https://github.com/idrees200/SkyFacts/assets/113856749/fa3205f6-14f2-4283-8a26-04935c361d65)
+
+
